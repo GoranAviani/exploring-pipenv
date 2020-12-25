@@ -15,3 +15,4 @@ if __name__ == '__main__':
     print_hi('PyCharm')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
+print('§       w253s2QZ<x   s>XS§    1req    §quit()q<aAS3qwq22  1§sWZA<')
